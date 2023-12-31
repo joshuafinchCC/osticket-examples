@@ -70,8 +70,9 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
     
   <li>The Agent can message the End User through the Ticket Thread to update the User on the ticket as well as set the status of the ticket (which is left as <b>Open</b> since we need to work it out)</li>
   
+
 <p align="center">
-  <img src="https://github.com/joshuafinchCC/osticket-examples/assets/155266044/81670b00-d732-4b43-9588-7b7768abf348" height="80%" width="80%">
+  <img src="https://github.com/joshuafinchCC/osticket-examples/assets/155266044/31f832fd-e0dd-48bc-87c9-205b2d085e50" height="80%" width="80%">
    </p>
 
 <br />
@@ -80,15 +81,14 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <p>
   <ul>
-    <li>Following from our Assignment of Departments and Communication with the End User, the issue in our hypothetical Critical Banking Outage ticket has been resolved thanks to System Engineering. The Agent should now communicate the issue with the End User using the Ticket Thread and set the status of the ticket from Open to <b>Resolved</b>. Upon posting the Reply, the ticket is <b>Closed</b>.</li>
+    <li>Following assignment to a department and communication with the end user, System Engineering has followed up within just a few minutes and informed us that the issue has been resolved. The Agent should now communicate the issue with the end user using the Ticket Thread and set the status of the ticket from Open to <b>Resolved</b>. Upon posting the Reply, the ticket is <b>Closed</b>.</li>
     <ul>
-      <li><img src="https://github.com/ColtonTrauCC/ticket-lifecycle/assets/147654000/fa08856b-4eb5-430b-ac76-ca606e494229" height="80%" width="80%" alt="Disk Sanitization Steps"/></li>
-    </ul>
-    <li>Closed tickets can be found under the Closed section in our Tickets tab, where information and status of the tickets are archived. It is good practice for Agents to study Closed tickets to improve their experience in working with them</li>
-    <ul>
-      <li><img src="https://github.com/ColtonTrauCC/ticket-lifecycle/assets/147654000/2e3b4963-5ca7-4d82-a004-17d2c166c8a0" height="80%" width="80%" alt="Disk Sanitization Steps"/></li>
-    </ul>
-  </ul>
-</p>
+
+<p align="center">
+  <img src="https://github.com/joshuafinchCC/osticket-examples/assets/155266044/721b5996-a188-4b81-bfb6-d79c138af329" height="80%" width="80%">
+   </p>
+  <li>Closed tickets can be found under the Closed section in our Tickets tab, where information and status of the tickets are archived. This can be an incredbly good resource for Agents to study Closed tickets to improve their experience in working with them</li>
+  
+   
 
 <br />
